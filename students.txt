@@ -1,2 +1,4 @@
-101 John B.Tech 20 89.5
-102 Ravi BCA 19 76.0
+101 Riya 19 89.5
+102 Karan 20 78.0
+103 Meena 18 92.0
+104 Ajay 21 67.5
