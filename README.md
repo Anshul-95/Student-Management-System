@@ -1,5 +1,5 @@
 
-# Student Management System (C Project)
+# Student Management System 
 A complete Student Record Management System implemented in C with **Role-Based Access** and **File Handling**.  
 This project demonstrates secure login, multiple user roles, and full CRUD operations on student records.
 
